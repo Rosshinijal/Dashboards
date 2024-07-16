@@ -8,8 +8,6 @@ Objectives Data Exploration and Cleaning: Understand the dataset's structure, cl
 
 here is the dashboard of Heart Disease Analysis
 
-Screenshot 2024-07-16 160546
-
 Age: Age of the patient. Sex: Gender of the patient (1 = male, 0 = female). Chest Pain Type (cp): Type of chest pain experienced by the patient. 0: Typical angina 1: Atypical angina 2: Non-anginal pain 3: Asymptomatic Resting Blood Pressure (trestbps): Resting blood pressure in mm Hg. Serum Cholesterol (chol): Serum cholesterol level in mg/dl. Fasting Blood Sugar (fbs): Fasting blood sugar > 120 mg/dl (1 = true, 0 = false). Resting Electrocardiographic Results (restecg): Resting ECG results. 0: Normal 1: Having ST-T wave abnormality 2: Showing probable or definite left ventricular hypertrophy Maximum Heart Rate Achieved (thalach): Maximum heart rate achieved. Exercise Induced Angina (exang): Exercise-induced angina (1 = yes, 0 = no). ST Depression Induced by Exercise Relative to Rest (oldpeak): ST depression induced by exercise relative to rest. Slope of the Peak Exercise ST Segment (slope): 0: Upsloping 1: Flat 2: Downsloping Number of Major Vessels Colored by Fluoroscopy (ca): Number of major vessels (0-3) colored by fluoroscopy. Thalassemia (thal): 0: Normal 1: Fixed defect 2: Reversible defect Methodology Data Cleaning and Preprocessing:
 
 Handle missing values and outliers. Encode categorical variables. Normalize or scale numerical features if necessary. Exploratory Data Analysis (EDA):
